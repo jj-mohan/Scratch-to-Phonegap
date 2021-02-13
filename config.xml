@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "startextlogo.tuneableice.edu.mit.scratch"
+        id          = "demon.tuneableice.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
@@ -10,7 +10,7 @@
     <name>StarText Logo</name>
 
     <description>
-        An app made using Scratch, GitHub, and PhoneGap.
+        Adventure!
     </description>
 
     <author href="http://scratch.mit.edu/users/tuneableice" email="[]">
